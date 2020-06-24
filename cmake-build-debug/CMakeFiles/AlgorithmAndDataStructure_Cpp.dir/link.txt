@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AlgorithmAndDataStructure_Cpp.dir/src/main.cpp.o CMakeFiles/AlgorithmAndDataStructure_Cpp.dir/src/sorts.cpp.o CMakeFiles/AlgorithmAndDataStructure_Cpp.dir/src/testhelper.cpp.o  -o AlgorithmAndDataStructure_Cpp 
